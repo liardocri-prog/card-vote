@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Immagini di test locali
+*.jpg
+*.jpeg
+*.png
